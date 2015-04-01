@@ -59,7 +59,15 @@ App.controller('home', function (page) {
         "What is your idea of an ideal day?",
         "What is your biggest goal this year?",
         "What is your favorite family tradition?",
-        "What do you do to cheer yourself up when you feel down?"
+        "What do you do to cheer yourself up when you feel down?",
+        "If you couldn’t watch TV or go online for a month, how would you spend that time?",
+        "If you had $500 to spend to help people, how would you spend the money?",
+        "If you could be a famous person for a week, who would you be and why?",
+        "What is your favorite way to relax?",
+        "If you could eat just one food, every day for a month and nothing else, what would it be?",
+        "If you could trade places with your parents for a day, how would you do things differently?",
+        "Who have you learned the most from in your life so far?",
+        "In ten years, what do you want your life to look like?"
     ];
 
 

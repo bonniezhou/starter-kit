@@ -1,3 +1,14 @@
-/* put stuff here */
+.app-topbar {
+    background-color: steelblue;
+}
 
-.home-page {}
+.topic-section {
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+#topic {
+    margin: 50px 0;
+}
